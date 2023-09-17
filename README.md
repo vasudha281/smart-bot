@@ -1,1 +1,3 @@
 # smart-bot
+
+Extracting useful insights from a large number of documents can be a time-consuming and difficult operation in today's data-centric society. The "Document Intelligence Bot" is a groundbreaking effort that is described in this document. The goal of the project is to create a cutting-edge bot that will completely alter how people interact with and query content. The envisioned bot is made to process a variety of documents quickly and effectively, giving users and organisations a potent tool for information intake, processing, and retrieval. The ultimate objective is to improve data analysis and accessibility, enabling a more perceptive and effective method of information acquisition and decision-making.
